@@ -1,0 +1,212 @@
+### 4.3.1 - Mar 17 2025
+* Update - SEO improvement
+* Update - Uses proper HTML5 elements
+* Update - Ensures headings follow a logical order
+* Update - Elementor Swiper compatibility
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 4.3.0 - Dec 25 2024
+* New - SEO improvement
+* New - Uses proper HTML5 elements
+* New - Ensures headings follow a logical order
+* New - Elementor Swiper compatibility
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 4.2.0 - Dec 11 2024
+* Update - Accessibilty improvement
+* Update - WooCommerce compatibility improvement
+* Update - Elementor compatibility improvement
+* Update - Brizy compatibility improvement
+* Update - Beaver Builder compatibility improvement
+* Update - Visual Composer compatibility improvement
+* Update - SiteOrigin compatibility improvement
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 4.1.0 - Nov 19 2024 =
+* New - WP 6.7 Compatibility
+* Update - Dashboard improvements
+* Update - Scripts improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 4.0.0 - Oct 25 2024
+* New - Import Starter Site Dashboard
+* New - Import Gutenberg Patterns Dashboard
+* New - Import Elementor Kits Dashboard
+* New - Customize Menu
+* New - AF themes Dashboard Menu
+* Update - Scripts improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 3.5.0 - Sep 11 2024
+* Update - Read Minutes Disabled by Default (Can be Enabled)
+* Option - Appearance -> Customize -> Theme Options -> Minutes Read Count
+* Update - Theme Banners improvements
+* Update - Theme Menus improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 3.4.0 - Aug 14 2024 =
+* Update - Block Style improvement
+* Update - Gaps improvement
+* Update - General design improvement
+
+### 3.3.3 - Mar 22 2024
+* Update - Icon improvement
+* Update - Block Style improvement
+* Update - Gaps improvement
+* Update - General design improvement
+
+### 3.3.2 - Feb 15 2024
+* Update - Block support for Appearnce Tools
+* Update - Block support for Padding
+* Update - Block support for Link Color
+* Update - Block support for Custom Units
+* Update - Block support for Custom Line Height
+* Update - Block support for Border
+* Fixed - Some styling glitch
+
+### 3.3.0 - Nov 27 2023
+* Update - WP 6.4 compatibility
+* Update - PHP 8 compatibility
+
+### 3.2.6 - Aug 08 2023
+* Update - Archive image improvements
+* Update - Block design improvements
+* Update - Fixed some design glitch
+
+### 3.2.5 - Jul 25 2023
+* Fixes - Banner improvements
+* Update - Block design improvements
+* Update - Fixed some design glitch
+
+### 3.2.4 - May 31 2023
+* Fixes - Category color class select improvements
+* Update - Block design improvements
+* Update - Fixed some design glitch
+
+### 3.2.3 - May 22 2023
+* Update - Block design improvements
+* Update - Fixed some design glitch
+
+### 3.2.2 - May 12 2023
+* Update - Block design improvements
+* Update - Dark mode tags-links improvements
+* Update - Single post header read details background improvements
+* Update - Comment links and excerpt link improvements
+* Update - Slider on sidebar offcanvas and footer widget area improvements
+* Update - Fixed some design glitch
+
+### 3.2.1 - Apr 26 2023
+* Update - WordPress 6.2 compatibility
+* Update - Header layout refinement
+* Update - Widgets layout refinement
+* Update - Blocks refinement
+* Update - Fixed some design glitch
+
+### 3.2.0 - Mar 16 2023
+* Update - Block design improvements
+* Update - WordPress 6.1.1 compatibility
+* Update - Fixed some design glitch
+
+### 3.1.0 - Sept 08 2022
+* Update - Multi-author support
+* Update - WordPress 6 compatibility
+
+### 3.0.0 - July 13 2022
+* Update - New dashboard with essential links
+* Update - Fixed some design glich
+* Update - WordPress 6 compatibility
+
+### 2.0.3 - July 14 2021
+* Update - Elementor stretch and full width
+* Fixed - Jetpack issues for banner swiper slider
+* Fixed - Jetpack issues for widgets swiper slider
+
+### 2.0.2 - May 19 2021
+* Recommend - Please clear your server/plugin/browser cache
+* Update - Added style version
+
+### 2.0.1 - May 17 2021
+* Recommend - Please clear your server/plugin/browser cache
+* Update - Optimized images loading for homepage blocks
+
+### 2.0.0 - May 14 2021
+* Update - Optimized images for lazy loading
+* Update - Optimized images sizes
+* Update - Optimized responsive design
+* Update - Optimized accessibility design
+* Fixed - Some styling glitch
+
+### 1.1.7 - Feb 23 2021
+* Update - Related post title and link methods
+
+### 1.1.6 - Feb 11 2021
+* New - Multiple breadcrumbs options
+* New - Sticky sidebar position
+* Fixed - Some styling glitch
+
+### 1.1.5 - Jan 06 2021
+* Improved - jQuery migrate
+* Improved - Sticky sidebar
+* Improved - Texts readability
+* Fixed - Tabs active issue
+* Fixed some design glitch
+
+### 1.1.4 - Jan 06 2021
+* Fixed - Loading issues for Firefox.
+
+### 1.1.3 - Dec 09 2020
+* Fixed - Bootstrap issues for jQuery.
+
+### 1.1.2 - Oct 29 2020
+* Fixed - Breadcrumbs issues for calendered archives.
+
+### 1.1.1 - Sept 23 2020
+* Single post content mode option added
+* Improved mobile accessibility
+* Fixed some design glitch
+
+### 1.1.0 - Sept 14 2020
+* Top header date format as set in WP date setting
+
+### 1.0.9 - Sept 09 2020
+* Fixed some design glitch
+
+### 1.0.8 - Sept 07 2020
+* Improved mobile accessibility
+
+### 1.0.7 - Aug 26 2020
+* Improved content page
+* Improved content design
+* Fixed some design glitch
+
+### 1.0.6 - Aug 22 2020
+* Improved breadcrumbs
+* Tested latest WordPress compatibility
+
+### 1.0.5 - Aug 03 2020
+* Improved user accessibility
+* Removed demo contents
+* Fixed some design glitch
+
+### 1.0.4 - July 11 2019
+* Spinner has been disabled for Elementor
+* Vertical slider issue on mobile has been fixed
+
+### 1.0.3 - June 27 2019
+* New - Tabbed title section for "Latest" and "Popular" have been added
+* Fixed some design glitch
+
+### 1.0.2 - May 24 2019
+* Fixed some design glitch
+
+### 1.0.1 - May 10 2019
+* Fixed some design glitch
+
+### 1.0.0 - May 02 2019
+* Initial release
